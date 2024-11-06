@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="lotus.gif" alt="welcome-image" style="width: 100%; height: auto;">
+</div>
 <h1 align="center">Hi 👋, I'm Sreeya</h1>
 <h3 align="center">Learning, Experimenting, and Growing!</h3>
 
